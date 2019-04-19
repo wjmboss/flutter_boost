@@ -34,7 +34,7 @@ flutter_boost:
 
 
 ## Integration with Flutter code.
-Add init code to you App
+Add init code to your App
 
 ```dart
 void main() => runApp(MyApp());
